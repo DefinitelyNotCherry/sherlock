@@ -1,9 +1,7 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
@@ -15,10 +13,11 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+NitroType
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,9 +25,11 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -42,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

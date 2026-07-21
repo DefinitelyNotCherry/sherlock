@@ -4,14 +4,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -19,6 +17,7 @@ Minecraft
 Odysee
 PCGamer
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -29,7 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 Trovo
 TryHackMe
 Velomania

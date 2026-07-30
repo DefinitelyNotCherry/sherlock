@@ -17,7 +17,6 @@ Hashnode
 Hubski
 Instapaper
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -36,7 +35,6 @@ Trakt
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM

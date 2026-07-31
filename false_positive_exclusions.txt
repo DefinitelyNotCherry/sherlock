@@ -13,11 +13,14 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 Instapaper
 LessWrong
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -31,10 +34,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM

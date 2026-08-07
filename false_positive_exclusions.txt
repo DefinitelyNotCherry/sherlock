@@ -5,6 +5,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+Carbonmade
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -16,7 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -27,11 +30,11 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate

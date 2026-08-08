@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,8 +18,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -47,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

@@ -1,9 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -12,12 +14,10 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -32,11 +32,11 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -48,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

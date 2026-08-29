@@ -5,9 +5,10 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+Carbonmade
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -49,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

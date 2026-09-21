@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,8 +6,6 @@ Archive.org
 Bandcamp
 CGTrader
 Championat
-Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -22,8 +19,6 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -51,4 +46,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster

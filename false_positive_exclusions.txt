@@ -4,16 +4,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerNews
 Hashnode
 Houzz
@@ -38,7 +40,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-WordPress
 YandexMusic
 authorSTREAM
 dailykos

@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -23,7 +24,6 @@ Instapaper
 Linktree
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -53,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster

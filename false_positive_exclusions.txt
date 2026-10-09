@@ -17,7 +17,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -27,6 +26,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -45,7 +44,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
+furaffinity
 hunting
 igromania
 interpals

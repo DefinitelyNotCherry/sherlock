@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,10 +8,12 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Fosstodon
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -41,10 +44,10 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-hunting
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster

@@ -1,11 +1,8 @@
-7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -13,7 +10,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Fosstodon
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -22,6 +18,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -44,10 +41,10 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+hunting
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster

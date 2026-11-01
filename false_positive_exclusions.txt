@@ -1,11 +1,12 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -36,7 +37,6 @@ Spotify
 Trakt
 TryHackMe
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos

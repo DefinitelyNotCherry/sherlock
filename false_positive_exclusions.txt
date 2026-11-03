@@ -1,13 +1,9 @@
-APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -21,6 +17,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -49,4 +46,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster

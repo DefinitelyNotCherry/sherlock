@@ -3,26 +3,20 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Bandcamp
 Championat
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-LibraryThing
-Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,7 +25,6 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Smule
 Splice
 Spotify
 Trakt
@@ -39,7 +32,6 @@ TryHackMe
 Velomania
 Vero
 YandexMusic
-authorSTREAM
 dailykos
 fixya
 hunting

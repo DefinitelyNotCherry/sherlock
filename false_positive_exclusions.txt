@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -14,6 +15,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,8 +32,10 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Venmo
 Vero
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
@@ -41,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster

@@ -3,8 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Carrd
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,6 +17,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -45,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
